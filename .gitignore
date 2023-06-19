@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# Electron
+/dist/
+/out/
+
+# Compiled JavaScript or TypeScript files
+*.js
+*.js.map
+*.ts
+*.ts.map
+
+# Build artifacts
+/build/
+/release/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
